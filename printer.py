@@ -14,15 +14,15 @@ from datetime import datetime
 
 PRINTERS = {
 
-    "lp2": "172.27.21.252",
+    "lp2": "172.X.X.X",
 
-    "lp3": "172.27.16.8",   # uses string OID
+    "lp3": "172.X.X.X",   # uses string OID
 
-    "lp4": "172.27.21.30",
+    "lp4": "172.X.X.X",
 
-    "lp5": "172.27.21.95",  # uses HP private OID
+    "lp5": "172.X.X.X",  # uses HP private OID
 
-    "clp": "172.27.16.5",   # uses string OID
+    "clp": "172.X.X.X",   # uses string OID
 
 }
 
